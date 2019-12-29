@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02593cd6-89df-4b49-8be4-9e22ae8146a8" name="Default Changelist" comment="" />
+    <list default="true" id="02593cd6-89df-4b49-8be4-9e22ae8146a8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/sptingcloud_mq_order/target/" />
@@ -36,7 +39,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/springcloud_mq_order/src/main/java/com/tang/mq/order/service/OrderServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="277">
@@ -44,6 +47,16 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor />
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -92,6 +105,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -165,11 +181,12 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="55" />
-    <option name="y" value="90" />
+    <option name="x" value="36" />
+    <option name="y" value="59" />
     <option name="width" value="1776" />
     <option name="height" value="996" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -182,106 +199,6 @@
             <path>
               <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
               <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_mq_order" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="domain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="listener" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="mapper" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud_mq_tx" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud_mq_tx" type="462c0819:PsiDirectoryNode" />
-              <item name="sptingcloud_mq_stock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="stock" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -299,6 +216,7 @@
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/springcloud_mq_order/pom.xml" />
@@ -386,15 +304,16 @@
       <workItem from="1577581341578" duration="4746000" />
       <workItem from="1577588650808" duration="10934000" />
       <workItem from="1577600965476" duration="438000" />
-      <workItem from="1577618753778" duration="1422000" />
+      <workItem from="1577618753778" duration="1669000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23781000" />
+    <option name="totallyTimeSpent" value="24028000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="55" y="90" width="1776" height="996" extended-state="0" />
+    <frame x="511" y="123" width="1776" height="996" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17307693" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -727,6 +646,14 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
         </state>
       </provider>
     </entry>
