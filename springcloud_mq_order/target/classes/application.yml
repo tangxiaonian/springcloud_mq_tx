@@ -1,0 +1,39 @@
+server:
+  port: 8081
+
+spring:
+  application:
+    name: spring-cloud-order-8081
+  datasource:
+    type: com.zaxxer.hikari.HikariDataSource
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://localhost:3306/test04?useUnicode=true&characterEncoding=utf-8&useSSL=false&serverTimezone=GMT%2B8
+    username: root
+    password: 721000
+    hikari:
+      minimum-idle: 5
+      idle-timeout: 600000
+      maximum-pool-size: 10
+      auto-commit: true
+      pool-name: MyHikariCP
+      max-lifetime: 1800000
+      connection-timeout: 30000
+      connection-test-query: SELECT 1
+  rabbitmq:
+    host: 192.168.108.128
+    port: 5672
+    username: guest
+    password: guest
+    # 开启消息确认机制 confirms
+    publisher-returns: true
+    publisher-confirms: true
+    listener:
+      simple:
+        retry: # 开启重试机制
+          enabled: true
+          max-attempts: 3
+          initial-interval: 3000
+        acknowledge-mode: manual  # 手动签收模式
+
+mybatis:
+  mapper-locations: /mapper/*.xml
